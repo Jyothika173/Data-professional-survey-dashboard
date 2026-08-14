@@ -19,4 +19,4 @@ Power BI dashboard analyzing data professional survey trends
 - Dashboard Design
 
 ## Dashboard Preview
-![Dashboard](Data_professional_dashboard.png)
+![Dashboard](Data-professional-dashboard.png)
